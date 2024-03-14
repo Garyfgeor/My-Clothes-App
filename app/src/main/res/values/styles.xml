@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="error" parent="@android:style/TextAppearance">
+        <item name="android:textColor">@color/bordo</item>
+        <item name="android:textSize">12dp</item>
+    </style>
+
+    <style name="textStyle">
+        <item name="android:fontFamily">@font/poppins_light</item>
+    </style>
+
+    <style name="AlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/dialog_rounded</item>
+    </style>
+</resources>

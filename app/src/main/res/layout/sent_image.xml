@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/sent_image_layout"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginBottom="5dp"
+        android:background="@drawable/sent_message_background">
+
+        <ImageView
+            android:id="@+id/sent_image_view"
+            android:layout_width="230dp"
+            android:layout_height="230dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/todo" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/datetime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sent_image_layout"
+        android:layout_marginTop="1dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="15dp"
+        android:text="Date and Time"
+        android:textSize="12sp"/>
+
+</RelativeLayout>
