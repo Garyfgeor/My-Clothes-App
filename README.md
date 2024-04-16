@@ -39,7 +39,7 @@ The backend is powered by Firebase, providing:
 - **Firestore Database:** Stores product and user information across various collections.
 - **Storage:** Handles image uploads associated with user products.
 - **Realtime Database:** Manages chat data and user interactions in real-time.
-- 
+
 <div float="left">
   <img src="images/login.jpg" width="180" height="400" />
   <img src="images/signup.jpg" width="180" height="400" />
