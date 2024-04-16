@@ -40,6 +40,16 @@ The backend is powered by Firebase, providing:
 - **Storage:** Handles image uploads associated with user products.
 - **Realtime Database:** Manages chat data and user interactions in real-time.
 
+![Login](images/login.jpg)
+![Signup](images/signup.jpg)
+![Home](images/home.jpg)
+![Navigation Drawer](images/nav_drawer.jpg)
+![Upload item](images/upload_post.jpg)
+![My Uploads](images/my_posts.jpg)
+![My Chats](images/my_chats.jpg)
+![Chat with person](images/chat_eith_person.jpg)
+![Settings](images/settings.jpg)
+
 ## Installation
 
 To run this application, clone the repository and open it in Android Studio:
