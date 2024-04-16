@@ -286,7 +286,7 @@ class ChatWithPersonActivity : AppCompatActivity() {
         val request: Request = Request.Builder()
             .url(url)
             .post(body)
-            .header("Authorization", "Bearer AAAAHKK2GSM:APA91bF2y1UZafqSBxIcK64UFtPVasoejI3mdeCc4J0tZFkm5Iwj-SdKQOeYesSQMEdE9dwTwVap6aQQlQ4A6CX5P_fDvL9x4tWQgjuypkI6P_74nsRWGB_7YRAeAJsMmq5_UVmrrNcS")
+            .header("Authorization", "Bearer bearer_key")
             .build()
 
 
