@@ -39,16 +39,25 @@ The backend is powered by Firebase, providing:
 - **Firestore Database:** Stores product and user information across various collections.
 - **Storage:** Handles image uploads associated with user products.
 - **Realtime Database:** Manages chat data and user interactions in real-time.
+- 
+<div float="left">
+  <img src="images/login.jpg" width="180" height="400" />
+  <img src="images/signup.jpg" width="180" height="400" />
+  <img src="images/home.jpg" width="180" height="400" />
+  <img src="images/nav_drawer.jpg width="180" height="400" />
+</div>
 
-![Login](images/login.jpg)
-![Signup](images/signup.jpg)
-![Home](images/home.jpg)
-![Navigation Drawer](images/nav_drawer.jpg)
-![Upload item](images/upload_post.jpg)
-![My Uploads](images/my_posts.jpg)
-![My Chats](images/my_chats.jpg)
-![Chat with person](images/chat_eith_person.jpg)
-![Settings](images/settings.jpg)
+<div float="left">
+  <img src="images/upload_post.jpg" width="180" height="400" />
+  <img src="images/my_posts.jpg" width="180" height="400" />
+  <img src="images/my_chats.jpg" width="180" height="400" />
+  <img src="images/chat_with_person.jpg" width="180" height="400" />
+</div>
+
+<div float="left">
+  <img src="images/settings.jpg" width="180" height="400" />
+</div>
+
 
 ## Installation
 
