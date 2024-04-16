@@ -17,6 +17,8 @@
 
 The application is developed using Kotlin in Android Studio and includes several key activities and fragments:
 
+### Activities
+
 - **Log-In Activity:** Main entry screen where users log in or navigate to sign up.
 - **Sign-Up Activity:** Users can create a new account and verify their email addresses.
 - **Navigation Drawer Activity:** Central hub for navigating the app, including menu options like Home, Upload Item, My Uploads, Chat, Settings, and Log Out.
