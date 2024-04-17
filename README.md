@@ -44,7 +44,7 @@ The backend is powered by Firebase, providing:
   <img src="images/login.jpg" width="180" height="400" />
   <img src="images/signup.jpg" width="180" height="400" />
   <img src="images/home.jpg" width="180" height="400" />
-  <img src="images/nav_drawer.jpg width="180" height="400" />
+  <img src="images/nav_drawer.jpg" width="180" height="400" />
 </div>
 
 <div float="left">
